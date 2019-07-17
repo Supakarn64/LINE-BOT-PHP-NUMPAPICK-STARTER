@@ -2,7 +2,7 @@
   
 
 function send_LINE($msg){
- $access_token = 'V1mKYI3RoNKhPrItBAPjxj255JBbpMP29E0ePPUcn0G; 
+ $access_token = 'Frj74jgRfunp0iCKpmYS9iUMdOxCP8bTGl+5gEGHeX+EV19XFFjp4wwBjiYm9zT4sh135VXvDPbhEXj+Cy4JpAWYk+YTIBpSppXL4JGGN7g0C+dc9EJL6Jz4QejTnvQIYO/z+bVo7E9w6PLlDneF4QdB04t89/1O/w1cDnyilFU=; 
 
   $messages = [
         'type' => 'text',
