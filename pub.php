@@ -1,6 +1,6 @@
  <?php
  function pubMqtt($topic,$msg){
-       $APPID= "eLZhLgue9dGlnDE:eQJ23mtVjHFIlQIJDa4w5D3VJ/"; //enter your appid
+       $APPID= "SmartSoma/"; //enter your appid
      $KEY = "eLZhLgue9dGlnDE"; //enter your key
     $SECRET = "eQJ23mtVjHFIlQIJDa4w5D3VJ"; //enter your secret
     $Topic = "$topic"; 
